@@ -30,4 +30,14 @@ https://[docker_IP]:8443/myportal/control/main
 帳號：admin
 密碼：ofbiz
 
+### 執行Demo
+--------------------------
+將這個專案clone到/usr/local/apache-ofbiz/plugins底下，接著執行以下指令
+
+```
+./gradlew loadall ofbiz
+```
+
+### 參考資料
+--------------------------
 reference: https://tecadmin.net/steps-to-install-apache-ofbiz-on-linux-system/
