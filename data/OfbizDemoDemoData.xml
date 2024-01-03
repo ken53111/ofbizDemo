@@ -1,23 +1,18 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-Licensed to the Apache Software Foundation (ASF) under one
-or more contributor license agreements.  See the NOTICE file
-distributed with this work for additional information
-regarding copyright ownership.  The ASF licenses this file
-to you under the Apache License, Version 2.0 (the
-"License"); you may not use this file except in compliance
-with the License.  You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing,
-software distributed under the License is distributed on an
-"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-KIND, either express or implied.  See the License for the
-specific language governing permissions and limitations
-under the License.
--->
-
 <entity-engine-xml>
-
+    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_1" ofbizDemoTypeId="INTERNAL" firstName="Sample First 1" lastName="Sample Last 1" comments="This is test comment for 1 record."/>
+    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_2" ofbizDemoTypeId="INTERNAL" firstName="Sample First 2" lastName="Sample last 2" comments="This is test comment for 2 record."/>
+    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_3" ofbizDemoTypeId="EXTERNAL" firstName="Sample First 3" lastName="Sample last 3" comments="This is test comment for 3 record."/>
+    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_4" ofbizDemoTypeId="EXTERNAL" firstName="Sample First 4" lastName="Sample last 4" comments="This is test comment for 4 record."/>
+    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_5" ofbizDemoTypeId="EXTERNAL" firstName="Sample First 5" lastName="Sample last 5" comments="This is test comment for 5 record."/>
+    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_6" ofbizDemoTypeId="EXTERNAL" firstName="Sample First 6" lastName="Sample last 6" comments="This is test comment for 6 record."/>
+    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_7" ofbizDemoTypeId="INTERNAL" firstName="Sample First 7" lastName="Sample last 7" comments="This is test comment for 7 record."/>
+    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_8" ofbizDemoTypeId="EXTERNAL" firstName="Sample First 8" lastName="Sample last 8" comments="This is test comment for 8 record."/>
+    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_9" ofbizDemoTypeId="EXTERNAL" firstName="Sample First 9" lastName="Sample last 9" comments="This is test comment for 9 record."/>
+    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_10" ofbizDemoTypeId="EXTERNAL" firstName="Sample First 10" lastName="Sample last 10" comments="This is test comment for 10 record."/>
+    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_11" ofbizDemoTypeId="INTERNAL" firstName="Sample First 11" lastName="Sample last 11" comments="This is test comment for 11 record."/>
+    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_12" ofbizDemoTypeId="INTERNAL" firstName="Sample First 12" lastName="Sample last 12" comments="This is test comment for 12 record."/>
+    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_13" ofbizDemoTypeId="EXTERNAL" firstName="Sample First 13" lastName="Sample last 13" comments="This is test comment for 13 record."/>
+    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_14" ofbizDemoTypeId="EXTERNAL" firstName="Sample First 14" lastName="Sample last 14" comments="This is test comment for 14 record."/>
 </entity-engine-xml>
